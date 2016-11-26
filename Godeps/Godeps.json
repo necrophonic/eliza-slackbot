@@ -1,0 +1,21 @@
+{
+	"ImportPath": "github.com/necrophonic/eliza-slackbot",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v75",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Comment": "v1.0.0-39-ge8f0f8a",
+			"Rev": "e8f0f8aaa98dfb6586cbdf2978d511e3199a960a"
+		},
+		{
+			"ImportPath": "github.com/necrophonic/go-eliza",
+			"Rev": "4e38b268a2f11505ccdec2630aefef33c4e855d1"
+		},
+		{
+			"ImportPath": "github.com/necrophonic/log",
+			"Comment": "v1.0-7-gd9aead5",
+			"Rev": "d9aead5c51c9b4275068d2605f7ae983bd6a0112"
+		}
+	]
+}
