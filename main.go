@@ -91,10 +91,10 @@ func startRTM() (wsurl, id string, err error) {
 	}
 
 	resp, err := http.Get(fmt.Sprintf("https://slack.com/api/rtm.start?token=%s", token))
-	defer resp.Body.Close()
 	if err != nil {
 		return "", "", err
 	}
+	defer resp.Body.Close()
 	if resp.StatusCode != 200 {
 		return "", "", fmt.Errorf("API request failed with code [%d]", resp.StatusCode)
 	}
