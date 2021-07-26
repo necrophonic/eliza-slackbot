@@ -1,5 +1,7 @@
 github.com/gorilla/websocket v1.2.0 h1:VJtLvh6VQym50czpZzx07z/kw9EgAxI3x1ZB8taTMQQ=
 github.com/gorilla/websocket v1.2.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
+github.com/gorilla/websocket v1.4.1 h1:q7AeDBpnBk8AogcD4DSag/Ukw/KV+YhzLj2bP5HvKCM=
+github.com/gorilla/websocket v1.4.1/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
 github.com/necrophonic/go-eliza v1.0.0 h1:2082OEDyZCra0dLuLETJfgSdQnJniVCLl9omWEtVAbg=
 github.com/necrophonic/go-eliza v1.0.0/go.mod h1:+i99jU/XqVlEH7PG6DMyPJyyZ01bYadtTO1ZoZlRfHY=
 github.com/necrophonic/log v0.0.0-20161020150618-4b6e680e89db h1:LBtI/DiTTDzJ/w3Mu2g9Ct3ZSZ3eFlskQL2WFh5Fsk0=
